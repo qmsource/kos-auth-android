@@ -33,7 +33,7 @@ import com.google.gson.JsonParseException;
 
 public class Main extends ListActivity {
     
-	private static final String TAG = ListActivity.class.getSimpleName();
+	private static final String TAG = Main.class.getSimpleName();
 	private static final String username = "username", password = "password";		//put your KOS credentials here!
 	
     @Override
